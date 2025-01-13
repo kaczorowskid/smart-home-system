@@ -1,0 +1,12 @@
+[submodule "smart-home-pcbs"]
+	path = smart-home-pcbs
+	url = https://github.com/kaczorowskid/smart-home-pcbs.git
+[submodule "smart-home-devices"]
+	path = smart-home-devices
+	url = https://github.com/kaczorowskid/smart-home-devices.git
+[submodule "smart-home-backend"]
+	path = smart-home-backend
+	url = https://github.com/kaczorowskid/smart-home-backend.git
+[submodule "smart-home-frontend-react"]
+	path = smart-home-frontend-react
+	url = https://github.com/kaczorowskid/smart-home-frontend-react.git
